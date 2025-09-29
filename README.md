@@ -21,7 +21,14 @@ It supports single binary operations like `12 + 5` and shows the result inline.
 - Built with Visual Studio
 
 ---
+## Screenshots
+<img width="227" height="327" alt="winformsC1" src="https://github.com/user-attachments/assets/2ece57b6-e3eb-4169-9328-d96e12b435d4" />
 
+---
+
+<img width="233" height="332" alt="winformsC2" src="https://github.com/user-attachments/assets/febada8f-4aae-4fa6-b888-1eb7bb445805" />
+
+---
 ## Requirements
 - **Windows**
 - **Visual Studio** (2022+ recommended)
